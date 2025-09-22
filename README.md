@@ -55,27 +55,30 @@ Donut Chart: Shows the Sum of Sales, max and Target, providing a quick overview 
 
 Table/Matrix: Provides detailed, tabular data views for specific analysis.
 
-Dashboard Preview
-Here are various views of the Super Store Sales Analysis Dashboard, showing how data changes when different regions are selected:
 
-All Regions:
-["C:\Users\dell\Pictures\Screenshots\Screenshot (21).png"]
+## Dashboard Preview
 
+Here are various views of the Super Store Sales Analysis Dashboard, showing how data changes when different regions are selected.
 
-Central Region:
-["C:\Users\dell\Pictures\Screenshots\Screenshot (22).png"]
+### All Regions
+![Super Store Dashboard All Regions](images/Screenshot (21).jpg)
+<br>
 
+### Central Region
+![Super Store Dashboard Central Region](images/Screenshot (22).jpg)
+<br>
 
-East Region:
-["C:\Users\dell\Pictures\Screenshots\Screenshot (23).png"]
+### East Region
+![Super Store Dashboard East Region](images/Screenshot (23).jpg)
+<br>
 
+### South Region
+![Super Store Dashboard South Region](images/Screenshot (24).jpg)
+<br>
 
-South Region:
-["C:\Users\dell\Pictures\Screenshots\Screenshot (24).png"]
-
-
-West Region:
-["C:\Users\dell\Pictures\Screenshots\Screenshot (25).png"]
+### West Region
+![Super Store Dashboard West Region](images/Screenshot (25).jpg)
+<br
 
 
 GitHub Project Link
