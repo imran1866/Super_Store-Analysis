@@ -1,7 +1,4 @@
 Super Store Sales Analysis Dashboard 📊✨
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/4540f60d-0fa0-4f4e-8ef9-934302cd9d34" />
-
-
 Project Overview
 This Power BI project provides a comprehensive analysis of the Super Store dataset, offering deep insights into sales performance, profitability, and customer behavior. The primary objective is to transform raw sales data into actionable business intelligence that can help stakeholders make data-driven decisions. The dashboard aims to identify key trends, pinpoint areas of high and low performance, and understand regional and product-specific sales dynamics.
 
