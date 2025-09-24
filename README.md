@@ -61,25 +61,19 @@ Table/Matrix: Provides detailed, tabular data views for specific analysis.
 Here are various views of the Super Store Sales Analysis Dashboard, showing how data changes when different regions are selected.
 
 ### All Regions
-![Super Store Dashboard All Regions](images/Screenshot (21).jpg)
-<br>
+<img width="1242" height="702" alt="image" src="https://github.com/user-attachments/assets/4b73470b-47e7-41ca-85d1-d7475eb9538a" />
 
 ### Central Region
-![Super Store Dashboard Central Region](images/Screenshot (22).jpg)
-<br>
+<img width="1245" height="715" alt="image" src="https://github.com/user-attachments/assets/e7bcaf63-b073-457b-a8c6-9f14fedbd49f" />
 
 ### East Region
-![Super Store Dashboard East Region](images/Screenshot (23).jpg)
-<br>
+<img width="1249" height="708" alt="image" src="https://github.com/user-attachments/assets/8f8eb8a6-546a-4936-a433-c49981285dc9" />
 
 ### South Region
-![Super Store Dashboard South Region]()
-<br>
+<img width="1248" height="712" alt="image" src="https://github.com/user-attachments/assets/0a9d3070-15be-4b2c-b1b0-bf856f2c72f0" />
 
 ### West Region
-![Super Store Dashboard West Region](images/Screenshot (25).jpg)
-<br
-
+<img width="1247" height="712" alt="image" src="https://github.com/user-attachments/assets/7a685518-2225-4e9c-a81c-1aa7b7bebe13" />
 
 GitHub Project Link
 [https://github.com/imran1866/Super_Store-Analysis]
